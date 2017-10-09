@@ -1,0 +1,1 @@
+int quanju = 0;
